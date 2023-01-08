@@ -70,8 +70,8 @@ This is the Screenshot of the projects a made!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Front-end Mentor Solution here](https://www.frontendmentor.io/solutions/calculator-app-5JZlDIAA-p)
+- Live Site URL: [Live WebSite here](https://calculator-app-orcin-gamma.vercel.app/)
 
 ## My process
 
